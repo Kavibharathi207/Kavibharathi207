@@ -7,9 +7,6 @@ AI & Data Science Student | Aspiring Data Analyst | Full Stack Developer 🚀
 </h3>
 
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=22&duration=4000&pause=300&color=9400D3&center=true&vCenter=true&width=700&lines=Building+AI+Driven+Solutions;Aspiring+Data+Analyst;Learning+•+Building+•+Growing+🚀"/>
-</p>
 
 <p align="center">
 
