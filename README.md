@@ -154,7 +154,7 @@ Built a full-stack web application for plant maintenance management with automat
 
 ### Frontend Developer Intern | Infinit Solutions, Coimbatore
 
-**May 2025 – June 2025**
+**May 2026 – June 2026**
 
 * Developed UI components and responsive pages for the BlogCurate AI-powered content curation platform using Svelte.
 * Built user and admin dashboards, content discovery features, and editorial profile interfaces.
