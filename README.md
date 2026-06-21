@@ -120,28 +120,59 @@ profile = {
 
 ### 🧠 AI Powered Second Brain Memory Assistant
 
-Developed an AI-powered personal memory assistant using Retrieval-Augmented Generation (RAG) architecture with LangChain, ChromaDB, and Ollama (Llama 3). The system performs semantic memory retrieval, context-aware response generation, and proactive reminders. Implemented cognitive memory decay scoring based on importance, recency, and frequency with secure AES-256 encrypted local storage.
+Developed an AI-powered personal memory assistant using Retrieval-Augmented Generation (RAG) architecture with LangChain, ChromaDB, and Ollama (Llama 3). The system performs semantic memory retrieval, context-aware response generation, and proactive reminders. Implemented cognitive memory decay scoring based on importance, recency, and frequency with secure AES-256 encrypted local storage. 
 
 **Tech Stack:** Python | LangChain | ChromaDB | Ollama | Streamlit
 
 ---
 
+### 📰 BlogCurate – AI-Powered Blog Curation Platform
+
+Developed a professional AI-powered blog curation platform during an internship at Infinit Solutions, Coimbatore. The platform automatically discovers, curates, translates, and publishes articles using local AI models, while providing personalized user feeds and a comprehensive admin dashboard.
+
+**Tech Stack:** Svelte 5 | JavaScript | HTML
+
+---
+
 ### 📊 Financial Expense Optimization
 
-Performed analytics on 10,000+ transaction records to identify spending patterns and cost optimization opportunities. Designed interactive Power BI dashboards with KPI indicators, category-wise drill-down filters, and visual insights that revealed the top spending categories accounting for over 60% of total expenses.
+Performed analytics on 10,000+ transaction records to identify spending patterns and cost optimization opportunities. Designed interactive Power BI dashboards with KPI indicators, category-wise drill-down filters, and visual insights that revealed the top spending categories accounting for over 60% of total expenses. 
 
-**Tech Stack:** Power BI | Excel | Data Analytics
+**Tech Stack:** Power BI | Excel | Data Analytic
 
 ---
 
 ### 🌱 Plant Care Scheduler Portal
 
-Built a full-stack web application for plant maintenance management with automated care scheduling features. Integrated Spring Boot scheduling services for reminder generation and developed a responsive React dashboard for monitoring plant activities and schedules.
+Built a full-stack web application for plant maintenance management with automated care scheduling features. Integrated Spring Boot scheduling services for reminder generation and developed a responsive React dashboard for monitoring plant activities and schedules. 
 
 **Tech Stack:** Spring Boot | React.js | MySQL | REST APIs
 
 ---
 
+## 💼 Internship Experience
+
+### Frontend Developer Intern | Infinit Solutions, Coimbatore
+
+**May 2025 – June 2025**
+
+* Developed UI components and responsive pages for the BlogCurate AI-powered content curation platform using Svelte.
+* Built user and admin dashboards, content discovery features, and editorial profile interfaces.
+* Assisted in backend API integration and content management workflows.
+
+**Tech Stack:** Svelte 5, Spring Boot, PostgreSQL, Redis, Docker
+
+---
+
+### Data Analytics Intern | Accent Techno Soft, Coimbatore
+
+**May 2025 (1 Month)**
+
+* Performed data cleaning, exploratory data analysis (EDA), and visualization on real-world datasets using Python.
+* Analyzed global Air Quality Index (AQI) data to identify pollution trends and generate actionable insights.
+* Created dashboards and reports to communicate findings effectively.
+
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
 <h2>🎯 Current Goals</h2>
 
